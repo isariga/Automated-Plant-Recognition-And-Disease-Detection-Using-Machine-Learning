@@ -1,0 +1,1 @@
+# Automated-Plant-Recognition-And-Disease-Detection-Using-Machine-Learning
